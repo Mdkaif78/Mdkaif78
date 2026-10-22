@@ -20,15 +20,11 @@ Java
 
 PHP
 
-C#
-
 JavaScript
 
 Web Technologies
 
 HTML5
-
-CSS3
 
 Responsive Design
 
