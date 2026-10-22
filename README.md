@@ -1,16 +1,52 @@
-## Hi there 👋
+Hi,
+I'm Mohammad Kaif 👋
+BSc Computer Science Student | University of Wolverhampton
+Aspiring Software Developer passionate about software development, web development, database systems and game development.
 
-<!--
-**Mdkaif78/Mdkaif78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently seeking a Sandwich Placement opportunity where I can apply my technical knowledge, gain industry experience and contribute to real-world projects.
 
-Here are some ideas to get you started:
+🚀 Portfolio
+🌐 https://portfolio-mohammad-kaif3.vercel.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills
+Languages
+Python
+Java
+PHP
+C#
+JavaScript
+Web Technologies
+HTML5
+CSS3
+Responsive Design
+Databases
+MySQL
+Tools & Technologies
+Git
+GitHub
+Unity
+Visual Studio Code
+XAMPP
+📂 Featured Projects
+🎮 Road Safety Serious Game
+Unity-based educational game teaching road safety through interactive 3D simulation.
+
+🗺️ WLV Campus Map
+Interactive navigation application designed to help users locate university facilities.
+
+🌐 Portfolio Website
+Personal portfolio showcasing projects, skills and experience.
+
+📝 PHP Quiz Application
+Web-based quiz application built using PHP and MySQL.
+
+🎯 Career Goals
+Secure a Software Development Sandwich Placement
+Strengthen Full-Stack Development Skills
+Build Industry-Ready Projects
+Contribute to Open Source Projects
+📫 Connect With Me
+Portfolio: https://portfolio-mohammad-kaif3.vercel.app
+GitHub: https://github.com/Mdkaif78
+LinkedIn: Add your LinkedIn link here
+⭐ Always learning, building and improving.
